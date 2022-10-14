@@ -61,7 +61,7 @@ We will be sending out a series of email communications to affected users.**
 
 > 如果被heroku 提示错误，请用 github action 来部署。
 
-> 部署成功后，可以先用浏览器访问 ***.herokuapp.com， 查看页面是否能正常访问。会显示一个随机的维基百科页面。
+> 部署成功后，可以先用浏览器访问 aivhasi.herokuapp.com， 查看页面是否能正常访问。会显示一个随机的维基百科页面。
 
 ## Github Actions 管理
 
